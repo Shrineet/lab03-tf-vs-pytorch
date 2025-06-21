@@ -1,0 +1,2 @@
+PyTorch Training time: 56.13 seconds
+Test accuracy: 0.9638
